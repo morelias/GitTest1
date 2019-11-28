@@ -5,3 +5,7 @@ this is my first try in git
 adding this line to test how is modified
 
 adding this new line
+
+a new change
+
+another one
