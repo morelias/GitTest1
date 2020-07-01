@@ -9,3 +9,9 @@ adding this new line
 a new change
 
 another ones
+
+-----------------------------------------------------------
+
+New GIT tests
+
+another new line  - test the git diff
